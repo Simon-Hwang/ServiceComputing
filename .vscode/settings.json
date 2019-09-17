@@ -9,6 +9,6 @@
     "go.vetFlags": [],
     "go.useCodeSnippetsOnFunctionSuggest": false,
     "go.formatTool": "goreturns",
-    "go.goroot": "C:\\go",
-    "go.gopath": "D:\\ServiceComputing"
+    "go.goroot": "/usr/lib/golang",
+    "go.gopath": "/home/simon-hwang/Desktop/ServiceComputing"
 }
