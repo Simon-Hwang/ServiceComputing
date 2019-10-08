@@ -1,8 +1,25 @@
-import (
-	"bufio"
-	"fmt"
-	"io"
-	"io/ioutil"
-	"os"
 	"os/exec"
+
 	"strconv"
+
+)
+
+
+
+//selpg的参数
+
+type selpg_args struct {
+
+	start_page  int
+
+	end_page    int
+
+	in_filename string
+
+	dest        string
+
+	page_len    int
+
+	page_type   int
+
+5 10 2 in_file.txt 
