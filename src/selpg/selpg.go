@@ -104,15 +104,14 @@ func print_args(){
 
 func process(){
 	var outfile *os.File
-	outfile,_= os.Create(selpg.print_des)
-	/*if selpg.print_des != ""{
-		_, err := os.Stat(selpg.print_des)
-		if err != nil {
+	
+	if selpg.print_des != ""{
+		if _,err_exit := os.Stat(selpg.print_des); err_exit != nil {
 			outfile,_= os.Create(selpg.print_des)
 		}else{
-			outfile,_ = os.OpenFile(selpg.print_des, os.O_APPEND, 0666)
+			outfile, _ = os.OpenFile(selpg.print_des,os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
 		}
-	}*/
+	}
 	defer outfile.Close()
 	if selpg.in_file != ""{
 		var infile *os.File

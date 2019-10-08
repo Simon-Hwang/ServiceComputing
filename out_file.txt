@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	"os/exec"
 
 	"strconv"
@@ -23,3 +24,11 @@ type selpg_args struct {
 	page_type   int
 
 5 10 2 in_file.txt 
+=======
+import (
+	"bufio"
+	"fmt"
+	"io"
+	"io/ioutil"
+	"os"
+>>>>>>> a38ecc75d55fbeec1148e5da35dcd451cf687772
