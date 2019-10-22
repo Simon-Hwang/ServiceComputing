@@ -1,0 +1,37 @@
+2019/10/19 18:27:42 [Error] User's name has exist!
+2019/10/19 18:27:42 [Error] Some info do not fit the standard!
+2019/10/19 18:45:29 [Error] User's name has exist!
+2019/10/19 18:45:29 [Error] Some info do not fit the standard!
+2019/10/19 18:46:25 [Error] Phone's format is not correct!
+2019/10/19 18:46:25 [Error] Some info do not fit the standard!
+2019/10/19 19:16:11 [Error] Error meeting time!
+2019/10/19 19:16:11 [Error] Create meeting failed!
+2019/10/19 19:19:23 [Error] Error meeting time!
+2019/10/19 19:19:23 [Error] Create meeting failed!
+2019/10/19 19:20:19 [Error] Error meeting time!
+2019/10/19 19:20:19 [Error] Create meeting failed!
+2019/10/19 19:22:50 [Error] Error start time!
+2019/10/19 19:22:50 [Error] Create meeting failed!
+2019/10/19 19:26:21 [Error] Error start time!
+2019/10/19 19:26:21 [Error] Create meeting failed!
+2019/10/19 19:27:25 [Error] Error start time!
+2019/10/19 19:27:25 [Error] Create meeting failed!
+2019/10/19 19:29:22 [Success] Create meeting successful!
+2019/10/19 19:31:59 [Success] Create meeting successful!
+2019/10/19 19:33:45 [Success] Create meeting successful!
+2019/10/19 19:35:53 [Error] Some users'meetings may overlap!
+2019/10/19 19:35:53 [Error] Create meeting failed!
+2019/10/19 19:52:17 [Success] Delete meeting successful!
+2019/10/19 19:52:22 [Error] Meeting not exist!
+2019/10/19 19:53:01 [Error] Some users'meetings may overlap!
+2019/10/19 19:53:01 [Error] Create meeting failed!
+2019/10/19 20:01:29 [Error] User not exist or input error info!
+2019/10/19 20:01:40 [Success] Create user successful!
+2019/10/19 20:01:49 [Error] User's name has exist!
+2019/10/19 20:01:49 [Error] Some info do not fit the standard!
+2019/10/19 20:01:57 [Success] Create user successful!
+2019/10/19 20:02:07 [Success] Create user successful!
+2019/10/19 20:02:31 [Success] Create meeting successful!
+2019/10/19 20:03:34 [Success] Delete meeting successful!
+2019/10/19 20:04:13 [Success] Create meeting successful!
+2019/10/19 20:05:02 [Success] Delete meeting's participator successful!

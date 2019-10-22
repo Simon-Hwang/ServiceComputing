@@ -1,4 +1,4 @@
-package main
+package selpg
 
 import (
 	"bufio"
@@ -144,13 +144,4 @@ func process(){
 			}
 		}
 	}
-}
-func main(){
-	args := os.Args
-	check_args_1(args)
-	set_flag()
-	deal_args()
-	check_args_2()
-	process()
-	print_args()
 }

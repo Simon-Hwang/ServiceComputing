@@ -1,0 +1,1 @@
+{"Participators":["c"],"Sponsor":"b","Title":"test","Start_time":{"Year":2019,"Month":9,"Day":9,"Hour":10,"Minute":0},"End_time":{"Year":2019,"Month":9,"Day":10,"Hour":10,"Minute":0}}
