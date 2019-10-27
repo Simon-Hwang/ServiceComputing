@@ -35,3 +35,16 @@
 2019/10/19 20:03:34 [Success] Delete meeting successful!
 2019/10/19 20:04:13 [Success] Create meeting successful!
 2019/10/19 20:05:02 [Success] Delete meeting's participator successful!
+2019/10/23 09:10:38 [Error] Phone's format is not correct!
+2019/10/23 09:10:38 [Error] Some info do not fit the standard!
+2019/10/23 09:11:42 [Success] Create user successful!
+2019/10/23 09:12:49 [Error] User's name has exist!
+2019/10/23 09:12:49 [Error] Some info do not fit the standard!
+2019/10/23 09:17:04 [Success] Create meeting successful!
+2019/10/23 09:19:16 [Success] Delete meeting's participator successful!
+2019/10/23 09:20:19 [Success] Delete meeting's participator successful!
+2019/10/23 09:21:02 [Success] Delete meeting's participator successful!
+2019/10/23 09:21:36 [Success] Create meeting successful!
+2019/10/23 09:21:44 [Success] Delete meeting's participator successful!
+2019/10/23 09:21:58 [Success] Delete meeting's participator successful!
+2019/10/23 09:22:13 [Success] Delete meeting successful!
