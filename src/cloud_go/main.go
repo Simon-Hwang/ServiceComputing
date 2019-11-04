@@ -11,13 +11,12 @@ const (
 )
 
 func main() {
-    port := os.Getenv("PORT")
+    port := os.Getenv("PORT")//get custom environment variables
     if len(port) == 0 {
         port = PORT
     }
-
     flag.StringVar(&port, "p", PORT, "PORT for httpd listening")
     flag.Parse()
-    server := service.NewServer()
-    server.Run(":" + port)
+    server := service.NewServer() // get server
+    server.Run(":" + port) // run the server at specific port
 }

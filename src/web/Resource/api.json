@@ -1,0 +1,6 @@
+{
+    "Login":"/login",
+    "Register":"/register",
+    "Upload":"/upload",
+    "Article":"/articles"
+}
